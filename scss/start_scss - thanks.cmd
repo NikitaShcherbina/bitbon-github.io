@@ -1,0 +1,1 @@
+sass --watch thanks.scss:..\css\thanks.css

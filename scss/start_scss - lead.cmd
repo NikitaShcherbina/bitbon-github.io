@@ -1,0 +1,1 @@
+sass --watch lead.scss:..\css\lead.css
